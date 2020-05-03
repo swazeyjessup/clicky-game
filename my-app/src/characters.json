@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Micheal",
+        "image": "my-app/public/assets/images /micheal.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pam",
+        "image": "my-app/public/assets/images /pam.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dwight",
+        "image": "my-app/public/assets/images /dwight.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jim",
+        "image": "my-app/public/assets/images /jim.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Stanley",
+        "image": "my-app/public/assets/images /stanly.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Creed",
+        "image": "my-app/public/assets/images /creed.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Angela",
+        "image": "my-app/public/assets/images /angela.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kevin",
+        "image": "my-app/public/assets/images /kevin.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Phyllis",
+        "image": "my-app/public/assets/images /phyllis.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Darryl",
+        "image": "my-app/public/assets/images /darryl.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Meredith",
+        "image": "my-app/public/assets/images /meredith.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Oscar",
+        "image": "my-app/public/assets/images /oscar.jpg"
+    }
+] 
