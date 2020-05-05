@@ -2,61 +2,62 @@
     {
         "id": 1,
         "name": "Micheal",
-        "image": "my-app/public/assets/images /micheal.jpg"
+        "image": "../imgs/micheal.jpg"
     },
     {
         "id": 2,
         "name": "Pam",
-        "image": "my-app/public/assets/images /pam.jpg"
+        "image": "../imgs/pam.jpg"
     },
     {
         "id": 3,
         "name": "Dwight",
-        "image": "my-app/public/assets/images /dwight.jpg"
+        "image": "../imgs/dwight.jpg"
     },
     {
         "id": 4,
         "name": "Jim",
-        "image": "my-app/public/assets/images /jim.jpg"
+        "image": "../imgs/jim.jpg"
     },
     {
         "id": 5,
         "name": "Stanley",
-        "image": "my-app/public/assets/images /stanly.jpg"
+        "image": "../imgs/stanly.jpg"
     },
     {
         "id": 6,
         "name": "Creed",
-        "image": "my-app/public/assets/images /creed.jpg"
+        "image": "../imgs/creed.jpg"
     },
     {
         "id": 7,
         "name": "Angela",
-        "image": "my-app/public/assets/images /angela.jpg"
+        "image": "../imgs/angela.jpg"
     },
     {
         "id": 8,
         "name": "Kevin",
-        "image": "my-app/public/assets/images /kevin.jpg"
+        "image": "../imgs/kevin.jpg"
     },
     {
         "id": 9,
         "name": "Phyllis",
-        "image": "my-app/public/assets/images /phyllis.jpg"
+        "image": "../imgs/phyllis.jpg"
     },
     {
         "id": 10,
         "name": "Darryl",
-        "image": "my-app/public/assets/images /darryl.jpg"
+        "image": "../imgs/darryl.jpg"
     },
     {
         "id": 11,
         "name": "Meredith",
-        "image": "my-app/public/assets/images /meredith.jpg"
+        "image": "../imgs/meredith.jpg"
     },
     {
         "id": 12,
         "name": "Oscar",
-        "image": "my-app/public/assets/images /oscar.jpg"
+        "image": "../imgs/oscar.jpg"
     }
+    
 ] 
