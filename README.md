@@ -2,4 +2,4 @@
 
 
 
-![](public/imgs/demo.gif)
+![](my/app/public/imgs/demo.gif)
